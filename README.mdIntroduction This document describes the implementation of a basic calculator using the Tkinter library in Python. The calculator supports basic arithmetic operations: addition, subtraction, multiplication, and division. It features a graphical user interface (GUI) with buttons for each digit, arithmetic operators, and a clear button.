@@ -1,0 +1,11 @@
+Introduction
+This document describes the implementation of a basic calculator using the Tkinter library in Python. The calculator supports basic arithmetic operations: addition, subtraction, multiplication, and division. It features a graphical user interface (GUI) with buttons for each digit, arithmetic operators, and a clear button.
+
+Code Overview
+The code provided creates a simple calculator application with the following functionalities:
+
+Number Entry: Buttons for digits 0-9.
+
+Operators: Buttons for addition (+), subtraction (-), multiplication (*), and division (/).
+
+Special Buttons: An equals button (=) to perform calculations and a clear button to reset the calculator.
